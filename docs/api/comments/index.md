@@ -54,7 +54,7 @@ call above would return
     "author": {
       "userId": "26e88626-fa52-4e6a-945b-e6b0c9a54a9d",
       "userName": "ancailliau",
-      "email": "antoinecailliau@gmail.com",
+      "email": "antoine@example.org",
       "firstName": "Antoine",
       "lastName": "Cailliau",
       "function": "Data Hoarder of its Majesty",
@@ -66,7 +66,7 @@ call above would return
     "lastModifiedBy": {
       "userId": "26e88626-fa52-4e6a-945b-e6b0c9a54a9d",
       "userName": "ancailliau",
-      "email": "antoinecailliau@gmail.com",
+      "email": "antoine@example.org",
       "firstName": "Antoine",
       "lastName": "Cailliau",
       "function": "Data Hoarder of its Majesty",
@@ -118,7 +118,7 @@ The command above will return the comment as recorded by DocIntel.
   "author": {
     "userId": "26e88626-fa52-4e6a-945b-e6b0c9a54a9d",
     "userName": "ancailliau",
-    "email": "antoinecailliau@gmail.com",
+    "email": "antoine@example.org",
     "firstName": "Antoine",
     "lastName": "Cailliau",
     "function": "Data Hoarder of its Majesty",
@@ -130,7 +130,7 @@ The command above will return the comment as recorded by DocIntel.
   "lastModifiedBy": {
     "userId": "26e88626-fa52-4e6a-945b-e6b0c9a54a9d",
     "userName": "ancailliau",
-    "email": "antoinecailliau@gmail.com",
+    "email": "antoine@example.org",
     "firstName": "Antoine",
     "lastName": "Cailliau",
     "function": "Data Hoarder of its Majesty",
