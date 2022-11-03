@@ -3,7 +3,7 @@ email: antoine@docintel.org
 description: >- # this means to ignore newlines until "baseurl:"
   Documentation for DocIntel
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://docs.docintel.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: docintelapp
 github_username:  docintelapp
 
