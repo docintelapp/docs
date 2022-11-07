@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tags
+title: Facets and tags
 parent: Administration Guide
 ---
 
@@ -9,7 +9,7 @@ parent: Administration Guide
 This section documents how facets and tags can be configured to make the life of
 users easier.
 
-## Automated extraction
+## Extracting tags automatically
 
 Tags can be automatically extracted from document (in fact, files) when they are
 processed before their registration.
@@ -148,3 +148,13 @@ that effect, you can define a rule as follow:
 The complete documentation for regular expressions as handled in .NET is
 available
 [here](https://learn.microsoft.com/en-us/dotnet/standard/base-types/regular-expressions).
+
+
+{: .note-title }
+> From one tag to multiple tags
+>
+> Note that the resulting string is then split on the comma `,` to lead to the
+> resulting tags. For example, you can rewrite a tag like
+> *affectedIndustry:Civil Society >> International Governance (NATO/EU)* to
+> *affectedOrganization:NATO* and *affectedOrganization:EU* by rewriting to
+> `affectedOrganization:NATO,affectedOrganization:EU`
