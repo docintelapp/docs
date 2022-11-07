@@ -11,6 +11,7 @@ github_username:  docintelapp
 theme: "just-the-docs"
 plugins:
   - jekyll-seo-tag
+  - jemoji
 
 kramdown:
   syntax_highlighter_opts:
