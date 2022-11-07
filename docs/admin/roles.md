@@ -9,7 +9,7 @@ parent: Administration Guide
 It is often convenient to group users together to ease management of
 permissions. Permissions can be granted to, or revoked from, a group of users as
 a whole and not individually. In DocIntel, this is done by creating a role that
-represents the group of users, and then granting membership in the role to
+represents the group of users, and then granting membership to the role for
 individual users.
 
 {: .note } 
@@ -51,7 +51,7 @@ To remove a role, follow the steps
 
 ## Adding a member
 
-To remove a role, follow the steps
+To add a member, follow the steps
 
 1. Click on **Administation** then **Role** in the left sidebar,
 2. Select the role you want to edit by clicking on the role name in the table,
@@ -60,7 +60,7 @@ To remove a role, follow the steps
 
 ## Removing a member
 
-To remove a role, follow the steps
+To remove a member, follow the steps
 
 1. Click on **Administation** then **Role** in the left sidebar,
 2. Select the role you want to edit by clicking on the role name in the table,
