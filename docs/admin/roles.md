@@ -1,27 +1,25 @@
 ---
 layout: default
-title: Roles
+title: Roles and permissions
 parent: Administration Guide
 ---
 
-# Roles
+# Managing roles and permissions
 
-It is often convenient to group users together to ease management of
-permissions. Permissions can be granted to, or revoked from, a group of users as
-a whole and not individually. In DocIntel, this is done by creating a role that
-represents the group of users, and then granting membership to the role for
-individual users.
+DocIntel offers an easy and convenient way to manage permissions by creating
+roles for groups of users. By doing this, you can effortlessly grant or revoke
+permission for the entire group all at once instead of individually.
 
 {: .note } 
 
-To create, update, delete roles, as well as to add or remove members, you need
-the corresponding specific permissions. If you do not see the buttons and links
-described in the documentation, check first that you have the right to perform
-these actions.
+To create, update, delete roles and also add or remove members, you will need
+special permission. If the buttons and links mentioned in the documentation
+aren't visible to you, please check that you have the requisite level of
+permission for those actions.
 
 ## Creating a role
 
-To create a role, follow the steps
+To create a role, follow the steps below:
 
 1. Click on **Administation** then **Role** in the left sidebar,
 2. Click on **Create** button on the top right,
@@ -31,7 +29,7 @@ To create a role, follow the steps
 
 ## Updating a role
 
-To update a role, follow the steps
+To update a role, follow the steps below:
 
 1. Click on **Administation** then **Role** in the left sidebar,
 2. Select the role you want to edit by clicking on the role name in the table,
@@ -42,7 +40,7 @@ To update a role, follow the steps
 
 ## Removing a role
 
-To remove a role, follow the steps
+To remove a role, follow the steps below:
 
 1. Click on **Administation** then **Role** in the left sidebar,
 2. Select the role you want to edit by clicking on the role name in the table,
@@ -51,7 +49,7 @@ To remove a role, follow the steps
 
 ## Adding a member
 
-To add a member, follow the steps
+To add a member to a role, follow the steps below:
 
 1. Click on **Administation** then **Role** in the left sidebar,
 2. Select the role you want to edit by clicking on the role name in the table,
@@ -60,7 +58,7 @@ To add a member, follow the steps
 
 ## Removing a member
 
-To remove a member, follow the steps
+To remove a member from a role, follow the steps below:
 
 1. Click on **Administation** then **Role** in the left sidebar,
 2. Select the role you want to edit by clicking on the role name in the table,
